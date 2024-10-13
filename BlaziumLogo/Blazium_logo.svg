@@ -7,9 +7,31 @@
    width="1024"
    height="1024"
    viewBox="0 0 1024 1024"
+   sodipodi:docname="Blazium_logo.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.7890625"
+     inkscape:cx="511.36634"
+     inkscape:cy="512"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <linearGradient
@@ -110,7 +132,8 @@
   </defs>
   <g
      id="layer1"
-     style="display:inline;fill:#000000;fill-opacity:0.510638">
+     style="display:inline;fill:#000000;fill-opacity:0.510638"
+     transform="matrix(-1,0,0,1,1032.969,0)">
     <g
        id="g191"
        style="display:none">

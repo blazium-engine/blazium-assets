@@ -7,8 +7,8 @@
    width="1024"
    height="1024"
    viewBox="0 0 1024 1024"
-   sodipodi:docname="Blazium_logo_with_background.svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="Blazium_logo_with_background_no_purple.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    inkscape:export-filename="Blazium_logo.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -134,12 +134,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.42041016"
-     inkscape:cx="449.56097"
-     inkscape:cy="474.53658"
-     inkscape:window-width="1858"
-     inkscape:window-height="1057"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="450.75029"
+     inkscape:cy="473.34727"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:export-bgcolor="#00000000" />
@@ -169,7 +169,7 @@
     <g
        id="g185"
        inkscape:label="Flame"
-       transform="matrix(1.4130654,-0.038192,0.03745861,1.4407313,-224.02098,-170.83268)"
+       transform="matrix(-1.4130654,-0.038192,-0.03745861,1.4407313,1256.99,-170.83268)"
        style="display:inline;fill:#000000;fill-opacity:0.510638">
       <ellipse
          style="display:inline;fill:url(#linearGradient178);fill-opacity:1;stroke-width:1.07376"
