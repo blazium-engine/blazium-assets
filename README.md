@@ -1,8 +1,8 @@
 # blazium-assets
 
-Blazium Artwork, Document, and other Assets for the Project as a whole.
+Artwork, documents, and other assets used in the [Blazium](https://blazium.app) project.
 
-Color used for the engine.
+Colors used in the logo and other assets.
 
 -   `#F079F2` :pink_circle: **Pink**
 -   `#8130F2` :purple_circle: **LTPurple**
